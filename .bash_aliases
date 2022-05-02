@@ -1,0 +1,1 @@
+dpa="docker ps -a"
