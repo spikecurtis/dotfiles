@@ -116,5 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
-EDITOR="nano"
+export EDITOR="nano"
 export PATH=$PATH:~/bin
